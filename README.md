@@ -1,8 +1,8 @@
 <h1>👋 Hi, I'm Timur Kanipov!</h1>
 
-👩🏻‍💻 Competitive Coder trying to find journey in the world of tech<br/>
-👩🏻‍🎓 Studies fundamental mathematics in high school in Moscow, Russia<br/>
-💭 Currently studying computer science and data analytics<br/>
+👩🏻‍💻 Competitive Coder trying to find his way in the world of tech<br/>
+👩🏻‍🎓 Studied fundamental mathematics in high school in Moscow, Russia<br/>
+💭 Currently studying computer science and data structures<br/>
 <!--📖 Visit my website to read my blog and learn more about me<br/> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=timurwtf&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
