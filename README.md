@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Timur Kanipov!</h1>
 
-👩🏻‍💻 Competitive Coder trying to find his way in the world of tech<br/>
+👩🏻‍💻 Competitive Programmer trying to find his way in the world of tech<br/>
 👩🏻‍🎓 Studied fundamental mathematics in high school in Moscow, Russia<br/>
 💭 Currently studying computer science and data structures<br/>
 <!--📖 Visit my website to read my blog and learn more about me<br/> -->
